@@ -18,7 +18,7 @@ const routes = {
   "cloudsmith.iwaitu.net": "https://docker.cloudsmith.io",
 
   // staging
-  "docker-staging.lixd.xyz": dockerHub,
+  "docker-staging.iwaitu.net": dockerHub,
 };
 
 function routeByHosts(host) {
